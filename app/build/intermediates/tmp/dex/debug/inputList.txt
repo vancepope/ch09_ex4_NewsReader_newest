@@ -1,2 +1,0 @@
-C:\Users\leticia.rabor\Desktop\ch09_ex4_NewsReader\app\build\intermediates\classes\debug
-C:\Users\leticia.rabor\Desktop\ch09_ex4_NewsReader\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-bf6372499ab7d9c7586f81e3c8610d4c63b58b3f.jar

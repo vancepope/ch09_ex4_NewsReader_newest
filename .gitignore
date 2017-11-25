@@ -1,0 +1,61 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gradle/4.4-rc-1/
+.gradle/buildOutputCleanup/
+.idea/vcs.xml
+.idea/workspace.xml
+app/build/generated/mockable-android-17.v3.jar
+app/build/generated/res/
+app/build/generated/source/aidl/
+app/build/generated/source/buildConfig/androidTest/
+app/build/generated/source/r/androidTest/
+app/build/generated/source/rs/
+app/build/intermediates/assets/
+app/build/intermediates/blame/
+app/build/intermediates/check-manifest/
+app/build/intermediates/incremental/compileDebugAidl/
+app/build/intermediates/incremental/compileDebugAndroidTestAidl/
+app/build/intermediates/incremental/mergeDebugAndroidTestResources/
+app/build/intermediates/incremental/mergeDebugResources/
+app/build/intermediates/incremental/processDebugAndroidTestResources/
+app/build/intermediates/incremental/processDebugResources/
+app/build/intermediates/lint/
+app/build/intermediates/manifest/
+app/build/intermediates/manifests/density/
+app/build/intermediates/manifests/full/debug/output.json
+app/build/intermediates/manifests/instant-run/
+app/build/intermediates/prebuild/
+app/build/intermediates/res/androidTest/
+app/build/intermediates/res/debug/output.json
+app/build/intermediates/res/debug/resources-debug.ap_
+app/build/intermediates/res/merged/
+app/build/intermediates/res/symbol-table-with-package/
+app/build/intermediates/rs/
+app/build/intermediates/splits-support/
+app/build/intermediates/symbols/
+app/build/intermediates/tmp/manifest/
+app/build/outputs/logs/
+build/android-profile/

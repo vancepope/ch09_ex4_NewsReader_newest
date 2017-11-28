@@ -1,18 +1,13 @@
 package com.murach.newsreader;
 
-
 import android.os.Bundle;
-import android.app.Activity;
+import android.support.v4.app.FragmentActivity;
 
+public class ItemsActivity extends FragmentActivity {
 
-public class ItemsActivity extends Activity implements ItemsFragment.ItemsFragmentListener{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_items);
     }
-    public void createItems(){
-        ItemsFragment itemsFragment = (ItemsFragment) getSupportFragmentManager().findFragmentById(R.id.fragment1);
-    }
-
 }

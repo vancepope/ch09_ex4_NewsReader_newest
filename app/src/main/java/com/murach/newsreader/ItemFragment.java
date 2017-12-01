@@ -52,7 +52,7 @@ public class ItemFragment extends Fragment implements OnClickListener {
         String link = intent.getStringExtra("link");
         Uri viewUri = Uri.parse(link);
 
-        // create the intent and start it
+        // Create the intent and start it
         Intent viewIntent = new Intent(Intent.ACTION_VIEW, viewUri);
         startActivity(viewIntent);
     }

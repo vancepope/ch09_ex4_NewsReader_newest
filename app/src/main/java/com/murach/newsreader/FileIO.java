@@ -24,7 +24,6 @@ public class FileIO {
     public FileIO (Context context) {
         this.context = context;
     }
-    
     public void downloadFile() {
         try{
             // get the URL
